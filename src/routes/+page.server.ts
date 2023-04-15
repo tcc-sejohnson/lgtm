@@ -1,30 +1,39 @@
 import fs from 'fs';
 
+function filename(letter: string, partOfSpeech: string): string {
+	return `/Users/elliottjohnson/dev/me/lgtm/src/lib/${letter}-${partOfSpeech}.txt`;
+}
+
+function populateMap(map: Map<string, Set<string>>, array: string[], partOfSpeech: string) {
+	array.forEach((word) => {
+		if (map.has(word)) {
+			map.get(word).add(partOfSpeech);
+		} else {
+			map.set(word, new Set([partOfSpeech]));
+		}
+	});
+}
+
 export function load() {
-	const data = fs.readFileSync('/Users/elliottjohnson/dev/me/lgtm/src/lib/database.json', 'utf8');
-	const json = JSON.parse(data);
-	const found = new Set<string>();
-	// const modified = json.filter((mystery: any) => {
-	// 	const { word } = mystery as { word: string };
-	// 	if (found.has(word)) return false;
-	// 	if (word[0] !== word[0].toUpperCase()) return false;
-	// 	found.add(word);
-	// 	return true;
+	// const letter = 'M';
+	// const adjectives = fs.readFileSync(filename(letter, 'adjectives'), 'utf8');
+	// const adverbs = fs.readFileSync(filename(letter, 'adverbs'), 'utf8');
+	// const nouns = fs.readFileSync(filename(letter, 'nouns'), 'utf8');
+	// const verbs = fs.readFileSync(filename(letter, 'verbs'), 'utf8');
+	// const map = new Map<string, Set<string>>();
+	// populateMap(map, adjectives.split('\n'), 'adjective');
+	// populateMap(map, adverbs.split('\n'), 'adverb');
+	// populateMap(map, nouns.split('\n'), 'noun');
+	// populateMap(map, verbs.split('\n'), 'verb');
+	// const dictionary = [];
+	// map.forEach((value, key) => {
+	// 	dictionary.push({
+	// 		word: key,
+	// 		partsOfSpeech: Array.from(value)
+	// 	});
 	// });
 	// fs.writeFileSync(
-	// 	'/Users/elliottjohnson/dev/me/lgtm/src/lib/database.json',
-	// 	JSON.stringify(modified, null, 2),
-	// 	'utf8'
+	// 	`/Users/elliottjohnson/dev/me/lgtm/src/lib/dictionaries/${letter}.json`,
+	// 	JSON.stringify(dictionary, null, 2)
 	// );
-	const keys = new Set<string>();
-	const types = new Set<string>();
-	console.log(json.length);
-	for (const mystery of json) {
-		for (const key of Object.keys(mystery)) {
-			keys.add(key);
-		}
-		types.add(mystery.type);
-	}
-	console.log(keys);
-	console.log(types);
 }

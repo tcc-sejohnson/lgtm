@@ -1,0 +1,4413 @@
+[
+  {
+    "word": "Lively",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lyrical",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lush",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Luxurious",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Long-lasting",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Logical",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lavish",
+    "partsOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "word": "Loyal",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Low-key",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lofty",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Luminous",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lacy",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lamentable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lambent",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lame",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lanky",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Large",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lasting",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Late",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Laudable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lavender",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Lawful",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lazy",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leading",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leafy",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lean",
+    "partsOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Learned",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Legal",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Legendary",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Legitimate",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lengthy",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lethal",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Level-headed",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Liberal",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lifelike",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Light",
+    "partsOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Likable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Limited",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Limpid",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lineal",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Linguistic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Liquid",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Literary",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Little",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Live",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb",
+      "verb"
+    ]
+  },
+  {
+    "word": "Local",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Lonely",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Long",
+    "partsOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "word": "Loose",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Labile",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lachrymose",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lacrimal",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Ladylike",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laggard",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Laid-back",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lamellar",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lampoonish",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Landlocked",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Landmark",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Languid",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Larcenous",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Large-scale",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Largish",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Last-minute",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Latent",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Later",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Latest",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Latticed",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Laughable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Laughter-filled",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Law-abiding",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lawless",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Laziest",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lazy-eyed",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lead-free",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leaderless",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leading-edge",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leafless",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leak-proof",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leaky",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Least",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Leathery",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lebanese",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Legalistic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Legged",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Legionary",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Legit",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leisurely",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lemniscate",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lenient",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lenticular",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leonine",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leprous",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lettered",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Leucine-rich",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Level",
+    "partsOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lewd",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Liberalistic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lichenoid",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Licit",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lidded",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Life-affirming",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Life-changing",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Life-giving",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Life-like",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lifelong",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lifesaving",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Light-footed",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Light-hearted",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lighthearted",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lightning-fast",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lightproof",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lilac",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lilliputian",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Limbless",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Limited-edition",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Limnological",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Linear",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Linguiform",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Linked",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lissome",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Listless",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lithic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lithotomic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Litigious",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lithe",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Living",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Locational",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lochial",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lockable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Locked",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Locomotor",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Locomotive",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Loculated",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Logarithmic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Logistical",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Logocentric",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Longest",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Longitudinal",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Lonesome",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Long-standing",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Long-term",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Long-winded",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Looking",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Loopy",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lopsided",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Loral",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lordly",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lorentzian",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Losable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Losing",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lossless",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lost",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Lotic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Loud",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Loveable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lovable",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Loved",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lovely",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Low",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb",
+      "noun"
+    ]
+  },
+  {
+    "word": "Low-cost",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Low-density",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Low-fat",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Low-fi",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Low-grade",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Low-level",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lowly",
+    "partsOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lsotropic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lubricious",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lucid",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lucky",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lucrative",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Luminiferous",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lunar",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Lunatic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lurid",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Luxe",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Luxuriant",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lying",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lysogenic",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lysosomal",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Longstanding",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Longsuffering",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lorn",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lousy",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Loving",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lowborn",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lower",
+    "partsOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lowest",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Lubricant",
+    "partsOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "word": "Ludicrous",
+    "partsOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "word": "Largely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lately",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laughably",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lavishly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lazily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lethally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lightly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Likely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Limply",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Limpidly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lined",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lingeringly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lividly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Locally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loftily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Logically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loosely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loudly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lovingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loyally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lubriciously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lucidly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Luckily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lugubriously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Luminously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Luridly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lushly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Luxuriantly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Luxuriously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lyrically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Languidly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laboriously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lackadaisically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lamentably",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lamely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lasciviously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lastly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Latterly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laudably",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laughingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lavenderly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lawfully",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lazingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leanly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Learnedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leastways",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lecherously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Ledge-wise",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leftward",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Legally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Legibly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lendwise",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lengthways",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leniently",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lenticularly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lento",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leoninely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leprously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Letter-perfectly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Levelly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lewdly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Liable",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Liberally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Liberatedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Licentiously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Light-heartedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Light-headedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Light-handedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Light-footedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lightening-fast",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Light-mindedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Like",
+    "partsOfSpeech": [
+      "adverb",
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Limberly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Limnologically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lineally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lingually",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Linguistically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lionheartedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Listlessly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Literally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lithely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Livelily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Locatively",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lockwise",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loco",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Logarithmically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loiteringly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lonesomely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Longingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lopsidedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lovably",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lovelornly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lowlily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loyalistically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loyallessly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Luminarily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Luminescently",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lusciously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lustfully",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lustrously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lankly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Languishingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Larcenously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lascively",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lastingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laterally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laudatorily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lawlessly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leadingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Learningly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leastwise",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leisurelessly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Levellingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leverageably",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lexically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Liberatingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Licitly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lifesavingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lilliputianly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Limblessly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Liny",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Liquidly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Literarily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Litigiously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Livably",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Livelong",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Localized",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Longitudinally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lubberly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lustily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lankily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lapidarily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lachrymosely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lacteally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lactiferously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lactosely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lamentingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lampooningly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Landward",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laplacianly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Largo",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Larkingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laughterlessly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lengthily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lentamente",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lexicographically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Liefly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lifelessly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lithographically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Locomotively",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laceratingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lachrymally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lactationally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lacteously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laggardly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lambently",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lamellarly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lamentedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laminarly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lamplit",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lateralward",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laudatively",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Laughterfully",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Law-abidingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lecturally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Ledgewise",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leerily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Legendarily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leisurefully",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lepidopterously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Leptodactylously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lethargically",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Levelheadedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Libertinely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Libidinously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Likelily",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lion-heartedly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lissomely",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Literatim",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Literately",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Localised",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loculicidally",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lodgingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Longways",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lore-wise",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lornly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loungingly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Louringly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Loveably",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lucratively",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Ludicrously",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Lumpishly",
+    "partsOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "word": "Labor",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Labyrinth",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lace",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lack",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laughter",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lawn",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Layer",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Leadership",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leak",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lease",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Legend",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Legume",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leisure",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lemon",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Length",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lesson",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Letter",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liability",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liberty",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Library",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "License",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lien",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Life",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lift",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Likeness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limestone",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limit",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Line",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Linen",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Link",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lip",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "List",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Listener",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Literature",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Livelihood",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liver",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Load",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lobby",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Location",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lock",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Logic",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Loneliness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Longing",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Look",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Loop",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Loss",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Love",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Loyalty",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laborer",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lacework",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lactose",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lady",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lake",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lamb",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lamp",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Land",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Landscape",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lane",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Language",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lapel",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lapse",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Larceny",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lash",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Last",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Latch",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Latitude",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laugh",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Launch",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Laurel",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Law",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lawnmower",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lawsuit",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lawyer",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Layoff",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lead",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Leader",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leaf",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "League",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leakiness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leap",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Learning",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leaseholder",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leather",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leave",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lecture",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Leg",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Legality",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Legendry",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Legislation",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lemonade",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lens",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lettering",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leveling",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liar",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Licensee",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lifeboat",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lifeguard",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lifestyle",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lifetime",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lift-off",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lighthouse",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lighting",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Likelihood",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lilt",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Limb",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limitation",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limo",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limp",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lineage",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lingerie",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Linkage",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lintel",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lion",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lipstick",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liquidity",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Listlessness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Literacy",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Litigation",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Livestock",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Load-bearing",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lobster",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Locality",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lockout",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lode",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Loft",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Logo",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Longevity",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Longhair",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lookout",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Looping",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lordship",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lorry",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lottery",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lounger",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lout",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lovebird",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lover",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lowdown",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Luggage",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Luminary",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Luminosity",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lumber",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lumberjack",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lumen",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lunacy",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lunch",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lunge",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Luster",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lustre",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Luxury",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lyric",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lymphocyte",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lysis",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lysosome",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Ladder",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Ladybug",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lagoon",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lair",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lameness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laminate",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lampshade",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lance",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lanyard",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lapdog",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lapwing",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Larva",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Larynx",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laser",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lasso",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lastingness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Latchkey",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Latin",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laughingstock",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laundry",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laurelled",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lava",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lawlessness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Layered",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Laziness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Leverage",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Levy",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lewdness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lice",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lichen",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lick",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lie",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lifeblood",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lifeline",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lighthousekeeper",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lignite",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limbo",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limpet",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lineup",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lingo",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liniment",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Linn",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lioness",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lipid",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liposuction",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liquefaction",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liquidation",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liquidator",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liquor",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liter",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Literate",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lithography",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Litmus",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Litter",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Littoral",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liverwort",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Livestream",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lizard",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Llama",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Loaf",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Loan",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lobotomy",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Locomotion",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lodge",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Logician",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Logistics",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Longboat",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lollipop",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Looseleaf",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lord",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lorikeet",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lounge",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Louse",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lumberyard",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Luminance",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lump",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lumpy",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lung",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lute",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lyricist",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Labrador",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lactation",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lacquer",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Ladder-back",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lament",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Landfill",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lantern",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Larder",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lark",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Lassitude",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Latex",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Left",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Legacy",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lend",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Leopard",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lettuce",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lever",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liberation",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Librarian",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lightning",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lime",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Limousine",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Liner",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Linguist",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Listing",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Litter box",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Locket",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lodgepole",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Logarithm",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Loitering",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Loner",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Longitude",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Loophole",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lot",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Louvre",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lowercase",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lubrication",
+    "partsOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "word": "Lure",
+    "partsOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "word": "Learn",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Let",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Liaise",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Liberate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lighten",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Listen",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Localize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Locate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Log",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Loiter",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Loll",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Loosen",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lose",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lubricate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lull",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lurch",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lustrate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Luxuriate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Liven",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Linger",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Loathe",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lap",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lay",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Legislate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Label",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lacerate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lambast",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lampoon",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Languish",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Laud",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Leach",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Leapfrog",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Legalize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Legitimize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lessen",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Levitate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Libel",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lifehack",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Limber",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lip-read",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Liquidate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Liquefy",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Liquidize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Litigate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lactate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lallygag",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lambaste",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lapidate",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lard",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lather",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Leech",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Limn",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Loot",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lop",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Luminize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lurk",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lust",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lynch",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lyricalize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lysogenize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Largen",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Larken",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Larrup",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lash out",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Laugh off",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "word": "Lavenderize",
+    "partsOfSpeech": [
+      "verb"
+    ]
+  }
+]
