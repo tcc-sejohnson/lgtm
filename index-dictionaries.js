@@ -6,14 +6,9 @@ function dictionaryPath(letter) {
 	return `./src/lib/dictionaries/${letter}.json`;
 }
 
-function indexedDictionaryPath(letter) {
-	return `./src/lib/dictionaries/${letter}-by-part-of-speech.json`;
-}
-
-function indexDictionary(letter) {
-	const dictionary = JSON.parse(fs.readFileSync(dictionaryPath(letter), 'utf8'));
+function indexByPartOfSpeech(raw) {
 	const indexedDictionary = {};
-	for (const { word, partsOfSpeech } of dictionary) {
+	for (const { word, partsOfSpeech } of raw) {
 		for (const partOfSpeech of partsOfSpeech) {
 			if (indexedDictionary[partOfSpeech]) {
 				indexedDictionary[partOfSpeech].push(word);
@@ -22,9 +17,18 @@ function indexDictionary(letter) {
 			}
 		}
 	}
-	fs.writeFileSync(indexedDictionaryPath(letter), JSON.stringify(indexedDictionary, null, 2));
+	return indexedDictionary;
 }
 
+const dictionaryByLetter = {};
 for (const letter of letters) {
-	indexDictionary(letter);
+	const raw = JSON.parse(fs.readFileSync(dictionaryPath(letter), 'utf8'));
+	dictionaryByLetter[letter] = {
+		list: raw,
+		byPartOfSpeech: indexByPartOfSpeech(raw)
+	};
 }
+fs.writeFileSync(
+	'./src/lib/dictionaries/indexed.json',
+	JSON.stringify(dictionaryByLetter, null, 2)
+);
