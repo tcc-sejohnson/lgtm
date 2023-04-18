@@ -10,7 +10,9 @@ export interface ExpandedLGTMResponse {
 
 export function getExpandedLGTM(seed?: number): ExpandedLGTMResponse {
 	const internalSeed =
-		!seed || isNaN(seed) || !Number.isInteger(seed) ? Math.floor(Math.random() * 100_000) : seed;
+		!seed || isNaN(seed) || !Number.isInteger(seed)
+			? Math.floor(Math.random() * 100_000_000_000)
+			: seed;
 
 	let previous: ResolvedWord | undefined;
 	const lgtm = letters.map((letter) => {
