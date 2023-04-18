@@ -4,13 +4,15 @@
 
 	export let data;
 
-	$: currentOrientation = $page.url.searchParams.get('orientation') ?? 'along-x';
+	let showCopySuccess = false;
+
+	$: currentOrientation = $page.url.searchParams.get('orientation') ?? 'along-y';
 	$: currentSeed = $page.url.searchParams.get('seed');
 	$: noAction = `/?${new URLSearchParams({
 		orientation: currentOrientation
 	})}`;
 	$: rotateAction = `/?${new URLSearchParams({
-		orientation: currentOrientation === 'along-x' ? 'along-y' : 'along-x',
+		orientation: currentOrientation === 'along-y' ? 'along-x' : 'along-y',
 		...(currentSeed ? { seed: currentSeed } : undefined)
 	})}`;
 
@@ -49,8 +51,10 @@
 		await goto(rotateAction);
 	}
 
-	function copy() {
-		navigator.clipboard.writeText(`\`\`\`\n${data.lgtm.replaceAll('&nbsp;', '')}\n\`\`\``);
+	async function copy() {
+		await navigator.clipboard.writeText(`\`\`\`\n${data.lgtm.replaceAll('&nbsp;', '')}\n\`\`\``);
+		showCopySuccess = true;
+		setTimeout(() => (showCopySuccess = false), 5000);
 	}
 </script>
 
@@ -72,10 +76,15 @@
 		</form>
 		<form method="get" on:submit={enhanceRotate}>
 			<input name="seed" value={currentSeed} />
-			<input name="orientation" value={currentOrientation === 'along-x' ? 'along-y' : 'along-x'} />
+			<input name="orientation" value={currentOrientation === 'along-y' ? 'along-x' : 'along-y'} />
 			<button type="submit">yes but rotated</button>
 		</form>
 	</div>
+	{#if showCopySuccess}
+		<div class="copy-success-toast">
+			<span class="copy-success-toast-content">copied. go forth and merge</span>
+		</div>
+	{/if}
 </main>
 
 <style>
@@ -92,7 +101,7 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		gap: 16px;
+		gap: 8px;
 		min-width: 200px;
 	}
 
@@ -127,5 +136,20 @@
 		text-indent: 0;
 		color: #111;
 		white-space: inherit;
+	}
+
+	.copy-success-toast {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		position: fixed;
+		width: 100%;
+		bottom: 8px;
+	}
+
+	.copy-success-toast-content {
+		border-radius: 4px;
+		padding: 8px;
+		border: 1px solid black;
 	}
 </style>
