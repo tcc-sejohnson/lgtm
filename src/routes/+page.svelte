@@ -50,7 +50,7 @@
 	}
 
 	function copy() {
-		navigator.clipboard.writeText(`\`\`\`\n${data.lgtm}\n\`\`\``);
+		navigator.clipboard.writeText(`\`\`\`\n${data.lgtm.replaceAll('&nbsp;', '')}\n\`\`\``);
 	}
 </script>
 
@@ -60,7 +60,6 @@
     <code on:click={onClickHighlight}>{@html data.lgtm}</code>
   </pre>
 	<form method="get" on:submit={enhanceNo}>
-		<input name="seed" value={currentSeed} />
 		<input name="orientation" value={currentOrientation} />
 		<button type="submit">no</button>
 	</form>
