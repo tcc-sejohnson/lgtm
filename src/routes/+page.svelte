@@ -55,27 +55,27 @@
 </script>
 
 <main>
-	<pre>
-    <!-- svelte-ignore a11y-click-events-have-key-events -->
-    <code on:click={onClickHighlight}>{@html data.lgtm}</code>
-  </pre>
-	<form method="get" on:submit={enhanceNo}>
-		<input name="orientation" value={currentOrientation} />
-		<button type="submit">no</button>
-	</form>
-	<form
-		on:submit={(e) => {
-			e.preventDefault();
-			copy();
-		}}
-	>
-		<button type="submit">yes (copy to clipboard)</button>
-	</form>
-	<form method="get" on:submit={enhanceRotate}>
-		<input name="seed" value={currentSeed} />
-		<input name="orientation" value={currentOrientation === 'along-x' ? 'along-y' : 'along-x'} />
-		<button type="submit">yes but rotated</button>
-	</form>
+	<div class="content-wrapper">
+		<!-- svelte-ignore a11y-click-events-have-key-events -->
+		<pre><code on:click={onClickHighlight}>{@html data.lgtm}</code></pre>
+		<form method="get" on:submit={enhanceNo}>
+			<input name="orientation" value={currentOrientation} />
+			<button type="submit">no</button>
+		</form>
+		<form
+			on:submit={(e) => {
+				e.preventDefault();
+				copy();
+			}}
+		>
+			<button type="submit">yes (copy to clipboard)</button>
+		</form>
+		<form method="get" on:submit={enhanceRotate}>
+			<input name="seed" value={currentSeed} />
+			<input name="orientation" value={currentOrientation === 'along-x' ? 'along-y' : 'along-x'} />
+			<button type="submit">yes but rotated</button>
+		</form>
+	</div>
 </main>
 
 <style>
@@ -85,12 +85,23 @@
 		align-items: center;
 		height: 100vh;
 		width: 100vw;
+	}
+
+	.content-wrapper {
+		display: flex;
 		flex-direction: column;
+		justify-content: center;
+		align-items: center;
 		gap: 16px;
+		min-width: 200px;
 	}
 
 	form {
 		display: contents;
+	}
+
+	form > button {
+		min-width: 150px;
 	}
 
 	input {
@@ -98,6 +109,7 @@
 	}
 
 	pre {
+		align-self: stretch;
 		display: block;
 		width: auto;
 		overflow: auto;
