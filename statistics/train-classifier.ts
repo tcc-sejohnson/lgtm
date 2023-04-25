@@ -34,7 +34,7 @@ function appendGood(good: string[]): void {
 }
 
 function loadExistingClassifier(): {
-	learn: (text: string, group: 'good' | 'bad') => void;
+	learn: (text: string, group: 'good' | 'bad') => Promise<void>;
 	toJson: () => string;
 } {
 	if (!fs.existsSync('./statistics/results/classifier.json')) {
@@ -74,7 +74,7 @@ async function learn(): Promise<void> {
 		}
 
 		if (result === true) {
-			classifier.learn(acronym, 'good');
+			await classifier.learn(acronym, 'good');
 			goodAcronyms.push(acronym);
 		} else if (result === 'adjust') {
 			const modified = await text({
@@ -97,9 +97,9 @@ async function learn(): Promise<void> {
 				break;
 			}
 
-			classifier.learn(modified, 'good');
+			await classifier.learn(modified, 'good');
 		} else {
-			classifier.learn(acronym, 'bad');
+			await classifier.learn(acronym, 'bad');
 			badAcronyms.push(acronym);
 		}
 
@@ -113,17 +113,26 @@ async function learn(): Promise<void> {
 		}
 	}
 
-	if (goodAcronyms.length >= 100) {
-		appendGood(goodAcronyms);
-		goodAcronyms = [];
-	}
-	if (badAcronyms.length >= 100) {
-		appendBad(badAcronyms);
-		badAcronyms = [];
-	}
+	appendGood(goodAcronyms);
+	appendBad(badAcronyms);
 	writeClassifier(classifier.toJson());
 
 	outro('Training session complete.');
 }
 
+async function retrainOnArchive(): Promise<void> {
+	const classifier = bayes();
+	const good = JSON.parse(fs.readFileSync('./statistics/results/good.json', 'utf8'));
+	const bad = JSON.parse(fs.readFileSync('./statistics/results/bad.json', 'utf8'));
+	console.log(good);
+	for (const acronym of good) {
+		await classifier.learn(acronym, 'good');
+	}
+	for (const acronym of bad) {
+		await classifier.learn(acronym, 'bad');
+	}
+	writeClassifier(classifier.toJson());
+}
+
 await learn();
+// await retrainOnArchive();
