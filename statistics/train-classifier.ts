@@ -24,13 +24,13 @@ function* acronyms(): Generator<string> {
 }
 
 function appendBad(bad: string[]): void {
-	const oldBad = listify(fs.readFileSync('./statistics/results/bad.json', 'utf8'));
-	fs.writeFileSync('./statistics/results/bad.json', JSON.stringify(oldBad.concat(bad)));
+	const oldBad = JSON.parse(fs.readFileSync('./statistics/results/bad.json', 'utf8'));
+	fs.writeFileSync('./statistics/results/bad.json', JSON.stringify(oldBad.concat(bad), null, 2));
 }
 
 function appendGood(good: string[]): void {
-	const oldGood = listify(fs.readFileSync('./statistics/results/good.json', 'utf8'));
-	fs.writeFileSync('./statistics/results/good.json', JSON.stringify(oldGood.concat(good)));
+	const oldGood = JSON.parse(fs.readFileSync('./statistics/results/good.json', 'utf8'));
+	fs.writeFileSync('./statistics/results/good.json', JSON.stringify(oldGood.concat(good), null, 2));
 }
 
 function loadExistingClassifier(): {
@@ -120,11 +120,11 @@ async function learn(): Promise<void> {
 	outro('Training session complete.');
 }
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 async function retrainOnArchive(): Promise<void> {
 	const classifier = bayes();
 	const good = JSON.parse(fs.readFileSync('./statistics/results/good.json', 'utf8'));
 	const bad = JSON.parse(fs.readFileSync('./statistics/results/bad.json', 'utf8'));
-	console.log(good);
 	for (const acronym of good) {
 		await classifier.learn(acronym, 'good');
 	}
