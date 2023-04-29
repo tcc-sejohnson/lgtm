@@ -123,10 +123,6 @@
 		display: contents;
 	}
 
-	form > button {
-		min-width: 150px;
-	}
-
 	input {
 		display: none;
 	}
