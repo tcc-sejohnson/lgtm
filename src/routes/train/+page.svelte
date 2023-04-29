@@ -1,28 +1,32 @@
 <script lang="ts">
 	import { enhance } from '$app/forms';
+	import { Button } from '$lib/button';
+	import { TextInput } from '$lib/text-input/index.js';
 
 	export let data;
 	export let form;
+
+	$: name = (form?.name as string) ?? '';
 </script>
 
-<main>
+<div class="content-wrapper">
 	{#if !data.allowed}
 		<form method="POST" action="?/authenticate" use:enhance>
 			<div class="form-input">
 				<label for="name">Name</label>
-				<input type="text" id="name" name="name" value={form?.name ?? ''} />
+				<TextInput type="text" id="name" name="name" value={name ?? ''} />
 				{#if form?.invalidName}
 					<p class="error">Please provide your name.</p>
 				{/if}
 			</div>
 			<div class="form-input">
 				<label for="password">Password</label>
-				<input type="password" id="password" name="password" />
+				<TextInput type="password" id="password" name="password" />
 				{#if form?.invalidPassword}
 					<p class="error">Incorrect password.</p>
 				{/if}
 			</div>
-			<button type="submit">Submit</button>
+			<Button type="submit" variant="primary">Submit</Button>
 		</form>
 	{:else}
 		<form method="POST" action="?/train" use:enhance>
@@ -41,12 +45,14 @@
 					<label for="yes">Yes</label>
 				</div>
 				<div class="radio-button">
+					<!-- svelte-ignore a11y-autofocus -->
 					<input
+						autofocus
 						type="radio"
 						id="no"
 						name="selection"
 						value="no"
-						checked={form?.selection === 'no'}
+						checked={form?.selection === 'no' || !form?.selection}
 					/>
 					<label for="no">No</label>
 				</div>
@@ -58,10 +64,7 @@
 						value="sort-of"
 						checked={form?.selection === 'sort-of'}
 					/>
-					<label for="sort-of">Not quite, let me fix it</label>
-					{#if form?.invalidSelection}
-						<p class="error">Please select one of the radio buttons.</p>
-					{/if}
+					<label for="sort-of">Not quite; let me fix it</label>
 					<input
 						class="hidden stretch"
 						type="text"
@@ -69,39 +72,52 @@
 						name="acronym"
 						value={data.acronym ?? ''}
 					/>
-					{#if form?.invalidCustomMessage}
-						<p class="error">{form.invalidCustomMessage}</p>
-					{/if}
 				</div>
 			</div>
-			<button type="submit">Submit</button>
+			{#if form?.invalidSelection}
+				<div class="error">Please select one of the radio buttons.</div>
+			{/if}
+			{#if form?.invalidCustomMessage}
+				<div class="error">{form.invalidCustomMessage}</div>
+			{/if}
+			<Button type="submit" variant="primary">Submit</Button>
 		</form>
 	{/if}
-</main>
+</div>
 
 <style>
-	main {
+	.content-wrapper {
 		display: flex;
+		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		height: 100vh;
-		width: 100vw;
+		gap: var(--gap);
+		min-height: 100%;
 	}
 
 	form {
 		display: flex;
 		flex-direction: column;
-		gap: 8px;
+		gap: var(--gap);
+		border-radius: var(--border-radius-double);
+		padding: var(--gap-double);
+		border: 1px solid var(--accents-2);
+		box-shadow: var(--shadow-small);
+		background: var(--background);
 	}
 
 	.form-input {
 		display: flex;
 		flex-direction: column;
 		align-items: stretch;
+		gap: var(--gap-half);
 	}
 
 	.error {
-		color: red;
+		border: 1px solid red;
+		background: rgba(255, 0, 0, 0.5);
+		padding: var(--gap-half);
+		border-radius: var(--border-radius);
 	}
 
 	p {

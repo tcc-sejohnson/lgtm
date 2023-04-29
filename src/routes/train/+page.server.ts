@@ -1,12 +1,13 @@
 import { MODEL_TRAINING_PASSWORD } from '$env/static/private';
 import { db } from '$lib/db/index.js';
+import { generateAcronym } from '$lib/statistics/utils.js';
 import { error, fail } from '@sveltejs/kit';
 
 export function load({ locals }) {
 	if (locals.session.data.authenticated) {
 		return {
 			allowed: true,
-			acronym: 'lumpy gorillas teach math'
+			acronym: generateAcronym()
 		};
 	}
 	return {

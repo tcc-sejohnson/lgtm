@@ -1,22 +1,31 @@
 <script lang="ts">
 	export let type: 'button' | 'submit' | 'reset';
+	export let variant: 'primary' | 'secondary' = 'secondary';
+
+	$: primary = variant === 'primary';
+	$: secondary = variant === 'secondary';
 </script>
 
-<button {type}><slot /></button>
+<button class:primary class:secondary {type}><slot /></button>
 
 <style>
 	button {
-		color: var(--foreground);
 		border-radius: var(--border-radius);
-		background: var(--background);
 		padding: var(--gap-three-quarters);
 		border: none;
 		cursor: pointer;
-		transition: 0.15s ease all;
 		box-shadow: var(--shadow-small);
+		transition: 0.15s ease all;
 	}
 
-	button:hover {
+	.secondary,
+	.primary:hover {
+		color: var(--foreground);
+		background: var(--background);
+	}
+
+	.secondary:hover,
+	.primary {
 		background: var(--foreground);
 		color: var(--background);
 	}

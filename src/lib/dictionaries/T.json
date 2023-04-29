@@ -1,5066 +1,3322 @@
 [
-  {
-    "word": "Tactful",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tangy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tantalizing",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tart",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tasteful",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tasty",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Technical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tedious",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Teeming",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Teetotal",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Temperate",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Temporal",
-    "partsOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "word": "Tender",
-    "partsOfSpeech": [
-      "adjective",
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tense",
-    "partsOfSpeech": [
-      "adjective",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tentative",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Terrific",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Terrified",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Terrifying",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Testy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Textured",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thankful",
-    "partsOfSpeech": [
-      "adjective",
-      "verb"
-    ]
-  },
-  {
-    "word": "Theatrical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Theoretical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thirsty",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thoughtful",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Threadbare",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Threatening",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thrilling",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Throbbing",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thumping",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thunderous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Ticklish",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tight",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Timeless",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Timid",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tiny",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tireless",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Titanic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tolerable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tolerant",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tomboyish",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Topical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Torpid",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Torturous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Touching",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tough",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Traditional",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tragic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trailblazing",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tranquil",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transparent",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transporting",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trapped",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Traumatic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Treacherous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trembling",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tremendous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Triangular",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tricky",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trim",
-    "partsOfSpeech": [
-      "adjective",
-      "verb"
-    ]
-  },
-  {
-    "word": "Triumphant",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trivial",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Troublesome",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trustful",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trustworthy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Truthful",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tubular",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Turbulent",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Twinkling",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Twisted",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Typical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tyrannical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tastable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Taboo",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tangible",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tired",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Time-bound",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tonic",
-    "partsOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "word": "Tonsorial",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Toothless",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tormented",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Touchy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Toxic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Traceable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Traditionalist",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trained",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transcendent",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transferable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transient",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transformative",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Translucent",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transmissible",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transnational",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transonic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transparently",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Triangularly",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trivially",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trustingly",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trustily",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Truthfully",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tempestuous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tactile",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Toothsome",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trippy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tattered",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Torrential",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tenacious",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tumultuous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Talented",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tacky",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thorny",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Toothy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tenuous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tailored",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Taut",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Telescopic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Teasing",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tingly",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thorough",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tawdry",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thrifty",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Top-notch",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Towering",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Time-consuming",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trendy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tropical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Torn",
-    "partsOfSpeech": [
-      "adjective",
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tiring",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Terrible",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Touchy-feely",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tardy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trusting",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thick",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trite",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Territorial",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Titillating",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tongue-tied",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tangerine",
-    "partsOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "word": "Truculent",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tenebrous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Twin",
-    "partsOfSpeech": [
-      "adjective",
-      "verb"
-    ]
-  },
-  {
-    "word": "Toasted",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tight-lipped",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tumbled",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tangled",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tachistoscopic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tagmemic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Talismanical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tardive",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tautomeric",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tea-scented",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tearful",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Technophobic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Telangiectatic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Telluric",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Temperamental",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tenable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tenpenny",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tensible",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tensional",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tepid",
-    "partsOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "word": "Terminal",
-    "partsOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "word": "Testable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Testimonial",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tetanic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tetchy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Textile",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thalassic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Theistic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thematic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Theocratic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Theological",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thermonuclear",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thermoplastic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thicketed",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thin",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thinnish",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thioacetic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thionic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thought-provoking",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thrasonical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Throaty",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Thyrotoxic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tidal",
-    "partsOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "word": "Time-honored",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Timorous",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tinny",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tipsy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Titular",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Toilsome",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Token",
-    "partsOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "word": "Tongue-in-cheek",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tonal",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Top-down",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Topographical",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tormenting",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Totalitarian",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trafficable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transatlantic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transcendental",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transcontinental",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transdermal",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transfinite",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transitional",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transitive",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transmundane",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transportable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transpontine",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Transposable",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Traplike",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trashy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trenchant",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trepid",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trickish",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tricksy",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Triclinic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trilingual",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Trimorphic",
-    "partsOfSpeech": [
-      "adjective"
-    ]
-  },
-  {
-    "word": "Tactfully",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tactically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tantalizingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tartly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tastefully",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tautly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Technically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tediously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tenderly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tensely",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Terribly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Terrifically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Testily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thankfully",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thoroughly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thoughtfully",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thrillingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thuddingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thunderously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tickly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tighter",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Timelessly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Timidly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tirelessly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Together",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tolerably",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Topically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Torpidly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Totally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Toughly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Traditionally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tragically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trailingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tranquilly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Transcendentally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Transiently",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tremblingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tremendously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Triumphantly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Troubledly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Truly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Twice",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Twistedly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tauntingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tawdrily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Taxably",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Taxonomically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Teachably",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tearfully",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tearingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Teenily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Telepathically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Telescopically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Temperamentally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Temporally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Temporarily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Temptingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tenaciously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tentatively",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Terminably",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Terrestrially",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Terrifyingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tetchily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Teutonically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Textually",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thence",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Theologically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Theoretically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Therapeutically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thereabouts",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thereafter",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thereby",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Therefore",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thermally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thetically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thickly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thinly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thirdly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thirstily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thrice",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thriftily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thrivingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thumpingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thwartedly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tightly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Timely",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tinklingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tiptoe",
-    "partsOfSpeech": [
-      "adverb",
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tiredly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Titillatingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Topographically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tornly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Torridly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tortuously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Totteringly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Touchingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Toxically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Traceably",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tractably",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trammeled",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Transcontinentally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Transitionally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Transitorily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Transversally",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Traumatically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Treacherously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Triatomically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trickily",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Triflingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trimly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Trippingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Truculently",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tersely",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tumultuously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tactlessly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tenderheartedly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Troublesomely",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tempestuously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tremulously",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tepidly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tellingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Thievishly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Throbbingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tormentingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Toxicologically",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Tunefully",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Turgidly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Turbulently",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Twinklingly",
-    "partsOfSpeech": [
-      "adverb"
-    ]
-  },
-  {
-    "word": "Table",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tank",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tapestry",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Target",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tarp",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tattoo",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tea",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teapot",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teddies",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Telephone",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Telescope",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Television",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Temple",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tent",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terrace",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Testimony",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Textbook",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Theater",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thermometer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thimble",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thorn",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thread",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Thrift",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Throne",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thunder",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tiara",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Ticket",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tides",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tie",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tiger",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tile",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Timber",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Time",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Timer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tinsel",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tip",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tissue",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Toast",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Toaster",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tobacco",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toe",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Toes",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toilet",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tomatoes",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tomb",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tongue",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tongs",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tool",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Toothbrush",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toothpaste",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Top",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Topaz",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Torch",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tornado",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tortoise",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Total",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tote",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Touch",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tourist",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Towel",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tower",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Town",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toy",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tractor",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trade",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tradition",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Traffic",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trail",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Train",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tram",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trampoline",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transmitter",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trap",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Trash",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Travel",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Treasure",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Treat",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tree",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Trench",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trolley",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trophy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trouser",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Truck",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Truffle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trumpet",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trunk",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trust",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Truth",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Try",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "T-shirt",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tube",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tug",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tulip",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tumbler",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tunnel",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Turquoise",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tabernacle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tableau",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tachometer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tackle",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Taffeta",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tailgate",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tailpipe",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tailspin",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Talcum",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tally",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tamarind",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tambourine",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tandem",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tang",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tankard",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tannery",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tannin",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tapioca",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tarantula",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tariff",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tarmac",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tarn",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tarnish",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tarpaulin",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tassel",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Taste",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Taster",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tatter",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tavern",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Taxidermy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Taxonomy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teacup",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Team",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Teammate",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tear",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Teardrop",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teaspoon",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Technique",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Technology",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tediousness",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tee",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Teenager",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teeth",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Telecommunication",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Temerity",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Temperament",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Temperature",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tempest",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tempestuousness",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Template",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tempo",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Temptation",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tendency",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tenderness",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tendon",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tenement",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tenet",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tennis",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tension",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tentacle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tenuousness",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tenure",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tequila",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Term",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Termination",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terminus",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terra",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terracotta",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terrain",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terrapin",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terrestrial",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Test",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Testament",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Testing",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Texture",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Thatch",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Theatre",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Theology",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Theory",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thermostat",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thicket",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thirst",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thistle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Threat",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Threshold",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thong",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Throat",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thyme",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tiddlywinks",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tier",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Timbre",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Timekeeper",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tin",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tinge",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tipple",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tiramisu",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tithe",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toad",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toboggan",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toll",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tomahawk",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Torpedo",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tortilla",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Touchstone",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tourmaline",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tourniquet",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trace",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tranquilizer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transfer",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Transformer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transit",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Translation",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Traveler",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Traverser",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tray",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trellis",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trestle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Triangle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tributary",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trick",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Trigger",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Trill",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trilogy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trimaran",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trinket",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tripod",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Troop",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tropic",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trough",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trout",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tuba",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tuck",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tugboat",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tuition",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tumbleweed",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tuna",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tapir",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tartan",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teddy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tenacity",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Territory",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Therapy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thriller",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tickle",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tide",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tie-dye",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tiller",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Timeline",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tingle",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tinker",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tire",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Titan",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toffee",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tomato",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tombstone",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toolbox",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tract",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trainer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transcendence",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transformation",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Translator",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transmission",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transport",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Treasury",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Treehouse",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Turmeric",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Triathlon",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Twilight",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tetanus",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tandoori",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thermos",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Truce",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Triceratops",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tectonics",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Turtleneck",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terrier",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Turnstile",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teller",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Terrarium",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tweed",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tranquility",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tanker",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tincture",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tusk",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Truncheon",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Truckload",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trivet",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Threshing",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tripe",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Typhoon",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tusked",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tactician",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Teepee",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Twine",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trifecta",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transgression",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Topiary",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Telepathy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tubing",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trifle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tuft",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tonality",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Turntable",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tenderloin",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tundra",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tulle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thunderstorm",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tapenade",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thrush",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toque",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Triptych",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tweezers",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trachea",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Turret",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tanning",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tactility",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tambour",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tercel",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thoroughfare",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Threnody",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thalidomide",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tackler",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trove",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tintinnabulation",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Triangulation",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Transducer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trapdoor",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trailblazer",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tramway",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Treetop",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trolleybus",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trekker",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Triplet",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Torrent",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tunic",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Turf",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tuxedo",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tumor",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tummy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tuber",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Troupe",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trundle",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trowel",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trojan",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Treetrunk",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trapper",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trailhead",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tragedy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Traitor",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Trademark",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Track",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Township",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tournament",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Totem",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tonsil",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tone",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tome",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tollgate",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tollbooth",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Toil",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tizzy",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tipper",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tint",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tinkle",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tinfoil",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Timberland",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Timepiece",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Till",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Tiebreaker",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thwart",
-    "partsOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "word": "Thumbscrew",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thug",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Thumbprint",
-    "partsOfSpeech": [
-      "noun"
-    ]
-  },
-  {
-    "word": "Tangle",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tantalize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Task",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tattle",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Taunt",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Teach",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tease",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Ted",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Teleport",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tell",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tempt",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tend",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Terminate",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Terrify",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thank",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thaw",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Theorize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Think",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thrash",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Threaten",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thrill",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Throttle",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Throw",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tilt",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tolerate",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tonsure",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Toot",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Topple",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Torment",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Toss",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tour",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tramp",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trample",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Transcend",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Transform",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Transfuse",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Translate",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Transmit",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Traverse",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tread",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tremble",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trespass",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trial",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Triumph",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trivialize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trot",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Troubleshoot",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trudge",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tumble",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tune",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Turn",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Twirl",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Twist",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Twitch",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Type",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Typify",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tyrannize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tag",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tailor",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Take",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Talk",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tamper",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tap",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Taper",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tango",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Technicalize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Telecast",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Telecommute",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Temper",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tenant",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Testify",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thicken",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thrum",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thrust",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thud",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thump",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tick",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tighten",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Toddle",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tog",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tout",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tow",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Traipse",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Transpose",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trek",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trend",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tabulate",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tame",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tape",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tech",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tectonize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Teeter",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Teethe",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Telecommunicate",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Telemeter",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Temporize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Terrorize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Third-degree",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thumb",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Titillate",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tock",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tokenize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tonalize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tonicize",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tope",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Toughen",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Thieve",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Transmute",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Trouble",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Truncate",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tweak",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tweet",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Tail",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  },
-  {
-    "word": "Takeoff",
-    "partsOfSpeech": [
-      "verb"
-    ]
-  }
+	{
+		"word": "Tactful",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tangy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tantalizing",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tart",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tasteful",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tasty",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Technical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tedious",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Teeming",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Teetotal",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Temperate",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Temporal",
+		"partsOfSpeech": ["adjective", "noun"]
+	},
+	{
+		"word": "Tender",
+		"partsOfSpeech": ["adjective", "noun", "verb"]
+	},
+	{
+		"word": "Tense",
+		"partsOfSpeech": ["adjective", "verb"]
+	},
+	{
+		"word": "Tentative",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Terrific",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Terrified",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Terrifying",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Testy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Textured",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thankful",
+		"partsOfSpeech": ["adjective", "verb"]
+	},
+	{
+		"word": "Theatrical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Theoretical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thirsty",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thoughtful",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Threadbare",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Threatening",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thrilling",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Throbbing",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thumping",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thunderous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Ticklish",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tight",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Timeless",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Timid",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tiny",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tireless",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Titanic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tolerable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tolerant",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tomboyish",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Topical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Torpid",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Torturous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Touching",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tough",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Traditional",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tragic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trailblazing",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tranquil",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transparent",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transporting",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trapped",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Traumatic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Treacherous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trembling",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tremendous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Triangular",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tricky",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trim",
+		"partsOfSpeech": ["adjective", "verb"]
+	},
+	{
+		"word": "Triumphant",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Trivial",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Troublesome",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trustful",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trustworthy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Truthful",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tubular",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Turbulent",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Twinkling",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Twisted",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Typical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tyrannical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tastable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Taboo",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tangible",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tired",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Time-bound",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tonic",
+		"partsOfSpeech": ["adjective", "noun"]
+	},
+	{
+		"word": "Tonsorial",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Toothless",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tormented",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Touchy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Toxic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Traceable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Traditionalist",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trained",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transcendent",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transferable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transient",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transformative",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Translucent",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transmissible",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transnational",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transonic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transparently",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Triangularly",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Trivially",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Trustingly",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Trustily",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Truthfully",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Tempestuous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tactile",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Toothsome",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trippy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tattered",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Torrential",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tenacious",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tumultuous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Talented",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tacky",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thorny",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Toothy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tenuous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tailored",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Taut",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Telescopic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Teasing",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tingly",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thorough",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tawdry",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thrifty",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Top-notch",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Towering",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Time-consuming",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trendy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tropical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Torn",
+		"partsOfSpeech": ["adjective", "adverb"]
+	},
+	{
+		"word": "Tiring",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Terrible",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Touchy-feely",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tardy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trusting",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thick",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trite",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Territorial",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Titillating",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tongue-tied",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tangerine",
+		"partsOfSpeech": ["adjective", "noun"]
+	},
+	{
+		"word": "Truculent",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tenebrous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Twin",
+		"partsOfSpeech": ["adjective", "verb"]
+	},
+	{
+		"word": "Toasted",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tight-lipped",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tumbled",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tangled",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tachistoscopic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tagmemic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Talismanical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tardive",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tautomeric",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tea-scented",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tearful",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Technophobic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Telangiectatic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Telluric",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Temperamental",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tenable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tenpenny",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tensible",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tensional",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tepid",
+		"partsOfSpeech": ["adjective", "noun"]
+	},
+	{
+		"word": "Terminal",
+		"partsOfSpeech": ["adjective", "noun"]
+	},
+	{
+		"word": "Testable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Testimonial",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tetanic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tetchy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Textile",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thalassic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Theistic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thematic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Theocratic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Theological",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thermonuclear",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thermoplastic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thicketed",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thin",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thinnish",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thioacetic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thionic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thought-provoking",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thrasonical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Throaty",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Thyrotoxic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tidal",
+		"partsOfSpeech": ["adjective", "noun"]
+	},
+	{
+		"word": "Time-honored",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Timorous",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tinny",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tipsy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Titular",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Toilsome",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Token",
+		"partsOfSpeech": ["adjective", "noun"]
+	},
+	{
+		"word": "Tongue-in-cheek",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tonal",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Top-down",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Topographical",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tormenting",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Totalitarian",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trafficable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transatlantic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transcendental",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transcontinental",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transdermal",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transfinite",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transitional",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transitive",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transmundane",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transportable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transpontine",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Transposable",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Traplike",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trashy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trenchant",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trepid",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trickish",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tricksy",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Triclinic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trilingual",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Trimorphic",
+		"partsOfSpeech": ["adjective"]
+	},
+	{
+		"word": "Tactfully",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tactically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tantalizingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tartly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tastefully",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tautly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Technically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tediously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tenderly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tensely",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Terribly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Terrifically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Testily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thankfully",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thoroughly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thoughtfully",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thrillingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thuddingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thunderously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tickly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tighter",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Timelessly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Timidly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tirelessly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Together",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tolerably",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Topically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Torpidly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Totally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Toughly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Traditionally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tragically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Trailingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tranquilly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Transcendentally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Transiently",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tremblingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tremendously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Triumphantly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Troubledly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Truly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Twice",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Twistedly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tauntingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tawdrily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Taxably",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Taxonomically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Teachably",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tearfully",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tearingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Teenily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Telepathically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Telescopically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Temperamentally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Temporally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Temporarily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Temptingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tenaciously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tentatively",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Terminably",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Terrestrially",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Terrifyingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tetchily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Teutonically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Textually",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thence",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Theologically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Theoretically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Therapeutically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thereabouts",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thereafter",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thereby",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Therefore",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thermally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thetically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thickly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thinly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thirdly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thirstily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thrice",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thriftily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thrivingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thumpingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thwartedly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tightly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Timely",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tinklingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tiptoe",
+		"partsOfSpeech": ["adverb", "noun", "verb"]
+	},
+	{
+		"word": "Tiredly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Titillatingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Topographically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tornly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Torridly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tortuously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Totteringly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Touchingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Toxically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Traceably",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tractably",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Trammeled",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Transcontinentally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Transitionally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Transitorily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Transversally",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Traumatically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Treacherously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Triatomically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Trickily",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Triflingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Trimly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Trippingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Truculently",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tersely",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tumultuously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tactlessly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tenderheartedly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Troublesomely",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tempestuously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tremulously",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tepidly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tellingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Thievishly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Throbbingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tormentingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Toxicologically",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Tunefully",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Turgidly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Turbulently",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Twinklingly",
+		"partsOfSpeech": ["adverb"]
+	},
+	{
+		"word": "Table",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tank",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tapestry",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Target",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tarp",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tattoo",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tea",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teapot",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teddies",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Telephone",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Telescope",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Television",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Temple",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tent",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terrace",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Testimony",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Textbook",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Theater",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thermometer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thimble",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thorn",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thread",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Thrift",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Throne",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thunder",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tiara",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Ticket",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tides",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tie",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tiger",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tile",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Timber",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Time",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Timer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tinsel",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tip",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tissue",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Toast",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Toaster",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tobacco",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toe",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Toes",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toilet",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tomatoes",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tomb",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tongue",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tongs",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tool",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Toothbrush",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toothpaste",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Top",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Topaz",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Torch",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tornado",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tortoise",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Total",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tote",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Touch",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tourist",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Towel",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tower",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Town",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toy",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tractor",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trade",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tradition",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Traffic",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trail",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Train",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tram",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trampoline",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transmitter",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trap",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Trash",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Travel",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Treasure",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Treat",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tree",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Trench",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trolley",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trophy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trouser",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Truck",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Truffle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trumpet",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trunk",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trust",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Truth",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Try",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "T-shirt",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tube",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tug",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tulip",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tumbler",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tunnel",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Turquoise",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tabernacle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tableau",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tachometer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tackle",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Taffeta",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tailgate",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tailpipe",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tailspin",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Talcum",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tally",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tamarind",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tambourine",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tandem",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tang",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tankard",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tannery",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tannin",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tapioca",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tarantula",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tariff",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tarmac",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tarn",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tarnish",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tarpaulin",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tassel",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Taste",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Taster",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tatter",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tavern",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Taxidermy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Taxonomy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teacup",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Team",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Teammate",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tear",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Teardrop",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teaspoon",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Technique",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Technology",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tediousness",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tee",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Teenager",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teeth",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Telecommunication",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Temerity",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Temperament",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Temperature",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tempest",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tempestuousness",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Template",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tempo",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Temptation",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tendency",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tenderness",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tendon",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tenement",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tenet",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tennis",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tension",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tentacle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tenuousness",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tenure",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tequila",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Term",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Termination",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terminus",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terra",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terracotta",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terrain",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terrapin",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terrestrial",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Test",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Testament",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Testing",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Texture",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Thatch",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Theatre",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Theology",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Theory",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thermostat",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thicket",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thirst",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thistle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Threat",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Threshold",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thong",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Throat",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thyme",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tiddlywinks",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tier",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Timbre",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Timekeeper",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tin",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tinge",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tipple",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tiramisu",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tithe",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toad",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toboggan",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toll",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tomahawk",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Torpedo",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tortilla",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Touchstone",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tourmaline",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tourniquet",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trace",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tranquilizer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transfer",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Transformer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transit",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Translation",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Traveler",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Traverser",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tray",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trellis",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trestle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Triangle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tributary",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trick",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Trigger",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Trill",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trilogy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trimaran",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trinket",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tripod",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Troop",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tropic",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trough",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trout",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tuba",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tuck",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tugboat",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tuition",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tumbleweed",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tuna",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tapir",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tartan",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teddy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tenacity",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Territory",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Therapy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thriller",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tickle",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tide",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tie-dye",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tiller",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Timeline",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tingle",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tinker",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tire",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Titan",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toffee",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tomato",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tombstone",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toolbox",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tract",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trainer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transcendence",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transformation",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Translator",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transmission",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transport",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Treasury",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Treehouse",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Turmeric",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Triathlon",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Twilight",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tetanus",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tandoori",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thermos",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Truce",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Triceratops",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tectonics",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Turtleneck",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terrier",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Turnstile",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teller",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Terrarium",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tweed",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tranquility",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tanker",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tincture",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tusk",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Truncheon",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Truckload",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trivet",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Threshing",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tripe",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Typhoon",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tusked",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tactician",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Teepee",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Twine",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trifecta",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transgression",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Topiary",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Telepathy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tubing",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trifle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tuft",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tonality",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Turntable",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tenderloin",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tundra",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tulle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thunderstorm",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tapenade",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thrush",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toque",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Triptych",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tweezers",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trachea",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Turret",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tanning",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tactility",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tambour",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tercel",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thoroughfare",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Threnody",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thalidomide",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tackler",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trove",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tintinnabulation",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Triangulation",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Transducer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trapdoor",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trailblazer",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tramway",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Treetop",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trolleybus",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trekker",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Triplet",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Torrent",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tunic",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Turf",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tuxedo",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tumor",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tummy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tuber",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Troupe",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trundle",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trowel",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trojan",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Treetrunk",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trapper",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trailhead",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tragedy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Traitor",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Trademark",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Track",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Township",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tournament",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Totem",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tonsil",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tone",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tome",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tollgate",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tollbooth",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Toil",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tizzy",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tipper",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tint",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tinkle",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tinfoil",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Timberland",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Timepiece",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Till",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Tiebreaker",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thwart",
+		"partsOfSpeech": ["noun", "verb"]
+	},
+	{
+		"word": "Thumbscrew",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thug",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Thumbprint",
+		"partsOfSpeech": ["noun"]
+	},
+	{
+		"word": "Tangle",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tantalize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Task",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tattle",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Taunt",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Teach",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tease",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Ted",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Teleport",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tell",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tempt",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tend",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Terminate",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Terrify",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thank",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thaw",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Theorize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Think",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thrash",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Threaten",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thrill",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Throttle",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Throw",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tilt",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tolerate",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tonsure",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Toot",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Topple",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Torment",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Toss",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tour",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tramp",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trample",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Transcend",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Transform",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Transfuse",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Translate",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Transmit",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Traverse",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tread",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tremble",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trespass",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trial",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Triumph",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trivialize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trot",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Troubleshoot",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trudge",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tumble",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tune",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Turn",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Twirl",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Twist",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Twitch",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Type",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Typify",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tyrannize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tag",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tailor",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Take",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Talk",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tamper",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tap",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Taper",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tango",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Technicalize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Telecast",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Telecommute",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Temper",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tenant",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Testify",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thicken",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thrum",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thrust",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thud",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thump",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tick",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tighten",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Toddle",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tog",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tout",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tow",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Traipse",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Transpose",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trek",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trend",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tabulate",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tame",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tape",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tech",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tectonize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Teeter",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Teethe",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Telecommunicate",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Telemeter",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Temporize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Terrorize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Third-degree",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thumb",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Titillate",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tock",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tokenize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tonalize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tonicize",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tope",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Toughen",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Thieve",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Transmute",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Trouble",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Truncate",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tweak",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tweet",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Tail",
+		"partsOfSpeech": ["verb"]
+	},
+	{
+		"word": "Takeoff",
+		"partsOfSpeech": ["verb"]
+	}
 ]
