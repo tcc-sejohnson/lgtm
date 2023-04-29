@@ -12,7 +12,7 @@
 		"test:unit": "vitest",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"train": "ts-node --esm --transpile-only statistics/train-classifier.ts"
+		"train": "ts-node -r dotenv/config --esm --transpile-only statistics/train-classifier.ts"
 	},
 	"devDependencies": {
 		"@clack/prompts": "^0.6.3",
@@ -22,8 +22,10 @@
 		"@types/node": "^18.16.0",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
+		"@vercel/postgres": "0.1.0-canary.26",
 		"@vercel/postgres-kysely": "0.1.0-canary.26",
 		"bayes": "^1.0.0",
+		"dotenv": "^16.0.3",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-svelte3": "^4.0.0",

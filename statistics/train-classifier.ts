@@ -1,138 +1,40 @@
 import fs from 'fs';
-import { intro, outro, select, isCancel, spinner, text } from '@clack/prompts';
 import bayes from 'bayes';
-
-function listify(text: string): string[] {
-	return text.split('\n').filter((line) => line.length > 0);
-}
-
-function getRandomElement<T>(array: Array<T>): T {
-	return array[Math.floor(Math.random() * array.length)];
-}
-
-const L = listify(fs.readFileSync('./statistics/dictionary/l.txt', 'utf8'));
-const G = listify(fs.readFileSync('./statistics/dictionary/g.txt', 'utf8'));
-const T = listify(fs.readFileSync('./statistics/dictionary/t.txt', 'utf8'));
-const M = listify(fs.readFileSync('./statistics/dictionary/m.txt', 'utf8'));
-
-function* acronyms(): Generator<string> {
-	while (true) {
-		yield `${getRandomElement(L)} ${getRandomElement(G)} ${getRandomElement(T)} ${getRandomElement(
-			M
-		)}`;
-	}
-}
-
-function appendBad(bad: string[]): void {
-	const oldBad = JSON.parse(fs.readFileSync('./statistics/results/bad.json', 'utf8'));
-	fs.writeFileSync('./statistics/results/bad.json', JSON.stringify(oldBad.concat(bad), null, 2));
-}
-
-function appendGood(good: string[]): void {
-	const oldGood = JSON.parse(fs.readFileSync('./statistics/results/good.json', 'utf8'));
-	fs.writeFileSync('./statistics/results/good.json', JSON.stringify(oldGood.concat(good), null, 2));
-}
+import { sql } from '@vercel/postgres';
 
 function loadExistingClassifier(): {
 	learn: (text: string, group: 'good' | 'bad') => Promise<void>;
 	toJson: () => string;
 } {
-	if (!fs.existsSync('./statistics/results/classifier.json')) {
+	if (!fs.existsSync('./statistics/classifier.json')) {
+		// @ts-expect-error - this module is barely typed but it's typed enough to be annoying
 		return bayes();
 	}
-	return bayes.fromJson(fs.readFileSync('./statistics/results/classifier.json', 'utf8'));
+	return bayes.fromJson(fs.readFileSync('./statistics/classifier.json', 'utf8'));
 }
 
 function writeClassifier(classifierJson: string): void {
-	fs.writeFileSync('./statistics/results/classifier.json', classifierJson);
+	fs.writeFileSync('./statistics/classifier.json', classifierJson);
 }
 
-async function learn(): Promise<void> {
-	let goodAcronyms: string[] = [];
-	let badAcronyms: string[] = [];
-
-	intro('Beginning classifier training session...');
-	const s = spinner();
-	s.start('Loading classifier...');
+async function trainOnNew(): Promise<void> {
+	const result = await sql<{
+		acronym: string;
+		classification: 'good' | 'bad';
+	}>`SELECT acronym, classification FROM learn_submissions WHERE NOT processed`;
 	const classifier = loadExistingClassifier();
-	s.stop('Classifier loaded.');
-
-	for (const acronym of acronyms()) {
-		const result = await select<{ value: boolean | 'adjust'; label: string }[], boolean | 'adjust'>(
-			{
-				message: `Is "${acronym}" a good acronym?`,
-				options: [
-					{ value: true, label: 'Yes' },
-					{ value: false, label: 'No' },
-					{ value: 'adjust', label: 'Not quite, let me fix it' }
-				]
-			}
-		);
-
-		if (isCancel(result)) {
-			break;
-		}
-
-		if (result === true) {
-			await classifier.learn(acronym, 'good');
-			goodAcronyms.push(acronym);
-		} else if (result === 'adjust') {
-			const modified = await text({
-				message: `What should the acronym be? (Original was ${acronym})`,
-				placeholder: acronym,
-				validate: (text) => {
-					const split = text.split(' ');
-					if (text.split(' ').length !== 4) {
-						return 'Acronym must be 4 words';
-					}
-					['l', 'g', 't', 'm'].forEach((letter, index) => {
-						if (!split[index].startsWith(letter)) {
-							return `Word ${index + 1} must start with ${letter}`;
-						}
-					});
-				}
-			});
-
-			if (isCancel(modified)) {
-				break;
-			}
-
-			await classifier.learn(modified, 'good');
-		} else {
-			await classifier.learn(acronym, 'bad');
-			badAcronyms.push(acronym);
-		}
-
-		if (goodAcronyms.length >= 100) {
-			appendGood(goodAcronyms);
-			goodAcronyms = [];
-		}
-		if (badAcronyms.length >= 100) {
-			appendBad(badAcronyms);
-			badAcronyms = [];
-		}
-	}
-
-	appendGood(goodAcronyms);
-	appendBad(badAcronyms);
-	writeClassifier(classifier.toJson());
-
-	outro('Training session complete.');
-}
-
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-async function retrainOnArchive(): Promise<void> {
-	const classifier = bayes();
-	const good = JSON.parse(fs.readFileSync('./statistics/results/good.json', 'utf8'));
-	const bad = JSON.parse(fs.readFileSync('./statistics/results/bad.json', 'utf8'));
-	for (const acronym of good) {
+	for (const acronym of result.rows
+		.filter((row) => row.classification === 'good')
+		.map((row) => row.acronym)) {
 		await classifier.learn(acronym, 'good');
 	}
-	for (const acronym of bad) {
+	for (const acronym of result.rows
+		.filter((row) => row.classification === 'bad')
+		.map((row) => row.acronym)) {
 		await classifier.learn(acronym, 'bad');
 	}
+	await sql`UPDATE learn_submissions SET processed = true WHERE NOT processed`;
 	writeClassifier(classifier.toJson());
 }
 
-await learn();
-// await retrainOnArchive();
+await trainOnNew();
