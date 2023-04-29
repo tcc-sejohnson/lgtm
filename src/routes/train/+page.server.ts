@@ -58,6 +58,13 @@ export const actions = {
 					acronym: acronym.toLowerCase(),
 					classification: selection === 'no' ? 'bad' : 'good'
 				})
+				.onConflict((oc) =>
+					oc.constraint('learn_submissions_pkey').doUpdateSet((eb) => ({
+						submitter_name: eb.ref('excluded.submitter_name'),
+						acronym: eb.ref('excluded.acronym'),
+						classification: eb.ref('excluded.classification')
+					}))
+				)
 				.execute();
 		} catch (e) {
 			console.log(e);

@@ -2,9 +2,20 @@
 	import { enhance } from '$app/forms';
 	import { Button } from '$lib/button';
 	import { TextInput } from '$lib/text-input/index.js';
+	import type { SubmitFunction } from './$types.js';
 
 	export let data;
 	export let form;
+
+	let submitting = false;
+
+	const handleSubmit: SubmitFunction = async (e) => {
+		submitting = true;
+		return async ({ update }) => {
+			await update();
+			submitting = false;
+		};
+	};
 
 	$: name = (form?.name as string) ?? '';
 </script>
@@ -26,7 +37,7 @@
 					<p class="error">Incorrect password.</p>
 				{/if}
 			</div>
-			<Button type="submit" variant="primary">Submit</Button>
+			<Button disabled={submitting} type="submit" variant="primary">Submit</Button>
 		</form>
 	{:else}
 		<form method="POST" action="?/train" use:enhance>
@@ -80,7 +91,7 @@
 			{#if form?.invalidCustomMessage}
 				<div class="error">{form.invalidCustomMessage}</div>
 			{/if}
-			<Button type="submit" variant="primary">Submit</Button>
+			<Button disabled={submitting} type="submit" variant="primary">Submit</Button>
 		</form>
 	{/if}
 </div>

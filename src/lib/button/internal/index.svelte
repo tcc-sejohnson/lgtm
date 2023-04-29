@@ -1,12 +1,13 @@
 <script lang="ts">
 	export let type: 'button' | 'submit' | 'reset';
 	export let variant: 'primary' | 'secondary' = 'secondary';
+	export let disabled = false;
 
 	$: primary = variant === 'primary';
 	$: secondary = variant === 'secondary';
 </script>
 
-<button class:primary class:secondary {type}><slot /></button>
+<button class:primary class:secondary {disabled} {type}><slot /></button>
 
 <style>
 	button {
@@ -16,6 +17,12 @@
 		cursor: pointer;
 		box-shadow: var(--shadow-small);
 		transition: 0.15s ease all;
+	}
+
+	button.primary:disabled,
+	button.secondary:disabled {
+		color: var(--accents-4);
+		background: var(--accents-2);
 	}
 
 	.secondary,
