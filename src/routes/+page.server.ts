@@ -16,7 +16,7 @@ export function load({ url }) {
 	}
 
 	if (orientation === 'along-y') {
-		return { lgtm: lgtm.join('\n.\n') };
+		return { lgtm: lgtm.join('\n.\n') + '\n.' };
 	}
 
 	const longest = lgtm.map((line) => line.length).reduce((a, b) => Math.max(a, b));
@@ -27,7 +27,7 @@ export function load({ url }) {
 		for (let j = 0; j < split.length; j++) {
 			letters.push(split[j][i] ?? '&nbsp;');
 		}
-		lines.push(letters.join(i === 0 ? '.' : ' '));
+		lines.push(letters.join(i === 0 ? '.' : ' ') + (i === 0 ? '.' : ' '));
 	}
 	return { lgtm: lines.join('\n') };
 }

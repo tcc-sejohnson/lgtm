@@ -1,6 +1,7 @@
 <script lang="ts">
-	import { goto, invalidateAll } from '$app/navigation';
+	import { goto } from '$app/navigation';
 	import { page } from '$app/stores';
+	import { Button } from '$lib/button';
 
 	export let data;
 
@@ -52,57 +53,70 @@
 	}
 
 	async function copy() {
-		await navigator.clipboard.writeText(`\`\`\`\n${data.lgtm.replaceAll('&nbsp;', '')}\n\`\`\``);
+		await navigator.clipboard.writeText(`\`\`\`\n${data.lgtm.replaceAll('&nbsp;', ' ')}\n\`\`\``);
 		showCopySuccess = true;
 		setTimeout(() => (showCopySuccess = false), 5000);
 	}
 </script>
 
-<main>
-	<div class="content-wrapper">
+<div class="content-wrapper">
+	<div class="constrain">
 		<!-- svelte-ignore a11y-click-events-have-key-events -->
-		<pre><code on:click={onClickHighlight}>{@html data.lgtm}</code></pre>
-		<form method="get" on:submit={enhanceNo}>
-			<input name="orientation" value={currentOrientation} />
-			<button type="submit">no</button>
-		</form>
-		<form
-			on:submit={(e) => {
-				e.preventDefault();
-				copy();
-			}}
-		>
-			<button type="submit">yes (copy to clipboard)</button>
-		</form>
-		<form method="get" on:submit={enhanceRotate}>
-			<input name="seed" value={currentSeed} />
-			<input name="orientation" value={currentOrientation === 'along-y' ? 'along-x' : 'along-y'} />
-			<button type="submit">yes but rotated</button>
-		</form>
-	</div>
-	{#if showCopySuccess}
-		<div class="copy-success-toast">
-			<span class="copy-success-toast-content">copied. go forth and merge</span>
+		<pre class:center={currentOrientation === 'along-x'}><code on:click={onClickHighlight}
+				>{@html data.lgtm}</code
+			></pre>
+		<div class="buttons">
+			<form method="get" on:submit={enhanceNo}>
+				<input name="orientation" value={currentOrientation} />
+				<Button type="submit">no thanks</Button>
+			</form>
+			<form
+				on:submit={(e) => {
+					e.preventDefault();
+					copy();
+				}}
+			>
+				<Button type="submit">yes (copy to clipboard)</Button>
+			</form>
+			<form method="get" on:submit={enhanceRotate}>
+				<input name="seed" value={currentSeed} />
+				<input
+					name="orientation"
+					value={currentOrientation === 'along-y' ? 'along-x' : 'along-y'}
+				/>
+				<Button type="submit">yes but rotated</Button>
+			</form>
 		</div>
-	{/if}
-</main>
+	</div>
+</div>
+{#if showCopySuccess}
+	<div class="copy-success-toast">
+		<span class="copy-success-toast-content">copied. go forth and merge</span>
+	</div>
+{/if}
 
 <style>
-	main {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 100vh;
-		width: 100vw;
-	}
-
 	.content-wrapper {
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		gap: 8px;
-		min-width: 200px;
+		gap: var(--gap);
+		min-height: 100%;
+	}
+
+	.constrain {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		gap: var(--gap);
+	}
+
+	.buttons {
+		display: flex;
+		flex-direction: column;
+		gap: var(--gap);
 	}
 
 	form {
@@ -117,25 +131,25 @@
 		display: none;
 	}
 
+	pre.center {
+		text-align: center;
+	}
+
 	pre {
-		align-self: stretch;
-		display: block;
-		width: auto;
 		overflow: auto;
-		background-color: #eee;
-		border-radius: 10px;
-		border: 1px solid;
-		border-color: #111;
-		padding: 30px;
+		border-radius: var(--border-radius-double);
+		padding: var(--gap-double);
+		border: 1px solid var(--accents-2);
+		box-shadow: var(--shadow-small);
+		background: var(--background);
 		margin: 0;
+		max-width: 400px;
+		min-width: 160px;
 	}
 
 	pre > code {
 		display: block;
-		font-size: 1rem;
-		text-indent: 0;
-		color: #111;
-		white-space: inherit;
+		font-size: 1.6rem;
 	}
 
 	.copy-success-toast {
@@ -144,12 +158,13 @@
 		justify-content: center;
 		position: fixed;
 		width: 100%;
-		bottom: 8px;
+		bottom: var(--gap);
 	}
 
 	.copy-success-toast-content {
-		border-radius: 4px;
+		border-radius: var(--border-radius);
+		background: var(--success);
 		padding: 8px;
-		border: 1px solid black;
+		box-shadow: var(--shadow-small);
 	}
 </style>

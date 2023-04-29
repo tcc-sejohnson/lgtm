@@ -1,0 +1,47 @@
+:root {
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: var(--foreground);
+  box-sizing: border-box;
+
+	--gap: 16px;
+  --gap-three-quarters: 12px;
+	--gap-half: 8px;
+	--gap-double: 32px;
+	--border-radius: 4px;
+	--border-radius-double: 8px;
+
+	--foreground: #000;
+	--background: #fff;
+	--accents-1: #fafafa;
+	--accents-2: #eaeaea;
+	--accents-3: #999999;
+	--accents-4: #888888;
+	--accents-5: #666666;
+	--accents-6: #444444;
+	--accents-7: #333333;
+	--accents-8: #111111;
+
+  --success: #c8e6c9;
+
+  --shadow-small: 0 4px 6px rgba(0, 0, 0, 0.12);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground: #fff;
+    --background: #000;
+    --accents-8: #fafafa;
+    --accents-7: #eaeaea;
+    --accents-6: #999999;
+    --accents-5: #888888;
+    --accents-4: #666666;
+    --accents-3: #444444;
+    --accents-2: #333333;
+    --accents-1: #111111;
+
+    --shadow-small: 0 4px 6px rgba(0, 0, 0, .04);;
+  }
+}
+```
