@@ -158,6 +158,7 @@
 	}
 
 	.copy-success-toast-content {
+		color: black;
 		border-radius: var(--border-radius);
 		background: var(--success);
 		padding: 8px;
