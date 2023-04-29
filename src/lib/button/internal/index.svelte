@@ -23,6 +23,7 @@
 	button.secondary:disabled {
 		color: var(--accents-4);
 		background: var(--accents-2);
+		cursor: not-allowed;
 	}
 
 	.secondary,

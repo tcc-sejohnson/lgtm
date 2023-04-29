@@ -8,21 +8,24 @@
 	export let form;
 
 	let submitting = false;
+	let selected: 'yes' | 'no' | 'sort-of' = 'no';
 
-	const handleSubmit: SubmitFunction = async (e) => {
+	const handleSubmit: SubmitFunction = async () => {
 		submitting = true;
 		return async ({ update }) => {
-			await update();
+			await update({ reset: false });
 			submitting = false;
+			selected = (form?.selection as 'yes' | 'no' | 'sort-of') ?? 'no';
 		};
 	};
 
 	$: name = (form?.name as string) ?? '';
+	$: console.log(selected);
 </script>
 
 <div class="content-wrapper">
 	{#if !data.allowed}
-		<form method="POST" action="?/authenticate" use:enhance>
+		<form method="POST" action="?/authenticate" use:enhance={handleSubmit}>
 			<div class="form-input">
 				<label for="name">Name</label>
 				<TextInput type="text" id="name" name="name" value={name ?? ''} />
@@ -37,44 +40,27 @@
 					<p class="error">Incorrect password.</p>
 				{/if}
 			</div>
-			<Button disabled={submitting} type="submit" variant="primary">Submit</Button>
+			<Button disabled={submitting} type="submit" variant="primary"
+				>{submitting ? 'loading...' : 'submit'}</Button
+			>
 		</form>
 	{:else}
-		<form method="POST" action="?/train" use:enhance>
+		<form method="POST" action="?/train" use:enhance={handleSubmit}>
 			<div class="acronym">
 				Is "{data.acronym}" a good acronym?
 			</div>
 			<div class="form-input">
 				<div class="radio-button">
-					<input
-						type="radio"
-						id="yes"
-						name="selection"
-						value="yes"
-						checked={form?.selection === 'yes'}
-					/>
+					<input bind:group={selected} type="radio" id="yes" name="selection" value="yes" />
 					<label for="yes">Yes</label>
 				</div>
 				<div class="radio-button">
 					<!-- svelte-ignore a11y-autofocus -->
-					<input
-						autofocus
-						type="radio"
-						id="no"
-						name="selection"
-						value="no"
-						checked={form?.selection === 'no' || !form?.selection}
-					/>
+					<input bind:group={selected} autofocus type="radio" id="no" name="selection" value="no" />
 					<label for="no">No</label>
 				</div>
 				<div class="radio-button">
-					<input
-						type="radio"
-						id="sort-of"
-						name="selection"
-						value="sort-of"
-						checked={form?.selection === 'sort-of'}
-					/>
+					<input bind:group={selected} type="radio" id="sort-of" name="selection" value="sort-of" />
 					<label for="sort-of">Not quite; let me fix it</label>
 					<input
 						class="hidden stretch"
@@ -91,7 +77,9 @@
 			{#if form?.invalidCustomMessage}
 				<div class="error">{form.invalidCustomMessage}</div>
 			{/if}
-			<Button disabled={submitting} type="submit" variant="primary">Submit</Button>
+			<Button disabled={submitting} type="submit" variant="primary"
+				>{submitting ? 'loading...' : 'submit'}</Button
+			>
 		</form>
 	{/if}
 </div>
