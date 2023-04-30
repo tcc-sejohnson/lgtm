@@ -20,7 +20,6 @@
 	};
 
 	$: name = (form?.name as string) ?? '';
-	$: console.log(selected);
 </script>
 
 <div class="content-wrapper">

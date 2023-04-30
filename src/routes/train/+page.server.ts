@@ -2,12 +2,28 @@ import { MODEL_TRAINING_PASSWORD } from '$env/static/private';
 import { db } from '$lib/db/index.js';
 import { generateAcronym } from '$lib/statistics/utils.js';
 import { error, fail } from '@sveltejs/kit';
+import classifierJson from '$lib/statistics/classifier.json?raw';
+// @ts-expect-error -- module not typed
+import bayes from 'bayes';
 
-export function load({ locals }) {
+const classifier = bayes.fromJson(classifierJson);
+
+export async function load({ locals }) {
 	if (locals.session.data.authenticated) {
+		let acronym = generateAcronym();
+		let good = false;
+		while (!good) {
+			const result = await classifier.categorize(acronym);
+			if (result === 'good') {
+				good = true;
+			} else {
+				acronym = generateAcronym();
+			}
+		}
+
 		return {
 			allowed: true,
-			acronym: generateAcronym()
+			acronym
 		};
 	}
 	return {
@@ -67,7 +83,6 @@ export const actions = {
 				)
 				.execute();
 		} catch (e) {
-			console.log(e);
 			return fail(500);
 		}
 

@@ -7,14 +7,13 @@ function loadExistingClassifier(): {
 	toJson: () => string;
 } {
 	if (!fs.existsSync('./statistics/classifier.json')) {
-		// @ts-expect-error - this module is barely typed but it's typed enough to be annoying
 		return bayes();
 	}
-	return bayes.fromJson(fs.readFileSync('./statistics/classifier.json', 'utf8'));
+	return bayes.fromJson(fs.readFileSync('./src/lib/statistics/classifier.json', 'utf8'));
 }
 
 function writeClassifier(classifierJson: string): void {
-	fs.writeFileSync('./statistics/classifier.json', classifierJson);
+	fs.writeFileSync('./src/lib/statistics/classifier.json', classifierJson);
 }
 
 async function trainOnNew(): Promise<void> {
