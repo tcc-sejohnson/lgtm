@@ -3,10 +3,10 @@ import bayes from 'bayes';
 import { sql } from '@vercel/postgres';
 
 function loadExistingClassifier(): {
-	learn: (text: string, group: 'good' | 'bad') => Promise<void>;
+	learn: (text: string, group: 'good' | 'bad') => Promise<unknown>;
 	toJson: () => string;
 } {
-	if (!fs.existsSync('./statistics/classifier.json')) {
+	if (!fs.existsSync('./src/lib/statistics/classifier.json')) {
 		return bayes();
 	}
 	return bayes.fromJson(fs.readFileSync('./src/lib/statistics/classifier.json', 'utf8'));
@@ -22,16 +22,18 @@ async function trainOnNew(): Promise<void> {
 		classification: 'good' | 'bad';
 	}>`SELECT acronym, classification FROM learn_submissions WHERE NOT processed`;
 	const classifier = loadExistingClassifier();
+	const promises: Promise<unknown>[] = [];
 	for (const acronym of result.rows
 		.filter((row) => row.classification === 'good')
 		.map((row) => row.acronym)) {
-		await classifier.learn(acronym, 'good');
+		promises.push(classifier.learn(acronym, 'good'));
 	}
 	for (const acronym of result.rows
 		.filter((row) => row.classification === 'bad')
 		.map((row) => row.acronym)) {
-		await classifier.learn(acronym, 'bad');
+		promises.push(classifier.learn(acronym, 'bad'));
 	}
+	await Promise.all(promises);
 	await sql`UPDATE learn_submissions SET processed = true WHERE NOT processed`;
 	writeClassifier(classifier.toJson());
 }
