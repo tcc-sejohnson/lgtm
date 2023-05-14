@@ -18,11 +18,13 @@ function writeClassifier(classifierJson: string): void {
 
 async function trainOnNew(): Promise<void> {
 	const result = await sql<{
+		id: number;
 		acronym: string;
 		classification: 'good' | 'bad';
-	}>`SELECT acronym, classification FROM learn_submissions WHERE NOT processed`;
+	}>`SELECT id, acronym, classification FROM learn_submissions WHERE NOT processed`;
 	const classifier = loadExistingClassifier();
 	const promises: Promise<unknown>[] = [];
+	console.log(`Training on ${result.rows.length} new submissions`);
 	for (const acronym of result.rows
 		.filter((row) => row.classification === 'good')
 		.map((row) => row.acronym)) {
@@ -34,7 +36,10 @@ async function trainOnNew(): Promise<void> {
 		promises.push(classifier.learn(acronym, 'bad'));
 	}
 	await Promise.all(promises);
-	await sql`UPDATE learn_submissions SET processed = true WHERE NOT processed`;
+	const sqlStr = `UPDATE learn_submissions SET processed = true WHERE id IN (${result.rows
+		.map((row) => row.id)
+		.join(', ')});`;
+	await sql.query(sqlStr);
 	writeClassifier(classifier.toJson());
 }
 
