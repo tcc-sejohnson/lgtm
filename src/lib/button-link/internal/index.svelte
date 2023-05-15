@@ -7,7 +7,13 @@
 	$: secondary = variant === 'secondary';
 </script>
 
-<a class:primary class:secondary class:disabled href={disabled ? undefined : href}><slot /></a>
+<a
+	data-sveltekit-preload-code="eager"
+	class:primary
+	class:secondary
+	class:disabled
+	href={disabled ? undefined : href}><slot /></a
+>
 
 <style>
 	a {

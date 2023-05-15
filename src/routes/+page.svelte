@@ -2,16 +2,22 @@
 	import { page } from '$app/stores';
 	import { Button } from '$lib/button';
 	import { ButtonLink } from '$lib/button-link';
+	import { beforeNavigate, afterNavigate } from '$app/navigation';
 
 	export let data;
 
 	let showCopySuccess = false;
+	let loading = false;
 
 	$: currentOrientation = $page.url.searchParams.get('orientation') ?? 'along-y';
 	$: currentId = $page.url.searchParams.get('id');
+
+	// navigate here for a new acronym: /?orientation={currentOrientation}
 	$: noAction = `/?${new URLSearchParams({
 		orientation: currentOrientation
 	})}`;
+
+	// navigate here for the same acronym but rotated: /?orientation={opposite}&id={currentId}
 	$: rotateAction = `/?${new URLSearchParams({
 		orientation: currentOrientation === 'along-y' ? 'along-x' : 'along-y',
 		...(currentId ? { id: currentId } : undefined)
@@ -35,6 +41,14 @@
 		showCopySuccess = true;
 		setTimeout(() => (showCopySuccess = false), 5000);
 	}
+
+	beforeNavigate(() => {
+		loading = true;
+	});
+
+	afterNavigate(() => {
+		loading = false;
+	});
 </script>
 
 <div class="content-wrapper">
@@ -44,15 +58,16 @@
 				>{@html data.lgtm}</code
 			></pre>
 		<div class="buttons">
-			<ButtonLink href={noAction}>no</ButtonLink>
+			<ButtonLink disabled={loading} href={noAction}>no</ButtonLink>
 			<Button
+				disabled={loading}
 				type="submit"
 				on:click={(e) => {
 					e.preventDefault();
 					copy();
 				}}>yes (copy to clipboard)</Button
 			>
-			<ButtonLink href={rotateAction}>yes but rotated</ButtonLink>
+			<ButtonLink disabled={loading} href={rotateAction}>yes but rotated</ButtonLink>
 		</div>
 	</div>
 </div>
