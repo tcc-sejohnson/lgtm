@@ -2,6 +2,8 @@
 	import { enhance } from '$app/forms';
 	import { Button } from '$lib/button';
 	import { TextInput } from '$lib/text-input/index.js';
+	import { Toast } from '$lib/toast/index.js';
+	import { Uploader } from '$lib/uploader/index.js';
 	import type { SubmitFunction } from './$types.js';
 
 	export let data;
@@ -82,6 +84,7 @@
 		</form>
 	{/if}
 </div>
+<Uploader />
 
 <style>
 	.content-wrapper {

@@ -3,6 +3,7 @@
 	import { Button } from '$lib/button';
 	import { ButtonLink } from '$lib/button-link';
 	import { beforeNavigate, afterNavigate } from '$app/navigation';
+	import { Toast } from '$lib/toast/index.js';
 
 	export let data;
 
@@ -73,9 +74,7 @@
 </div>
 
 {#if showCopySuccess}
-	<div class="copy-success-toast">
-		<span class="copy-success-toast-content">copied. go forth and merge</span>
-	</div>
+	<Toast>copied. go forth and merge</Toast>
 {/if}
 
 <style>
@@ -121,22 +120,5 @@
 	pre > code {
 		display: block;
 		font-size: 1.6rem;
-	}
-
-	.copy-success-toast {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		position: fixed;
-		width: 100%;
-		bottom: var(--gap);
-	}
-
-	.copy-success-toast-content {
-		color: black;
-		border-radius: var(--border-radius);
-		background: var(--success);
-		padding: 8px;
-		box-shadow: var(--shadow-small);
 	}
 </style>
