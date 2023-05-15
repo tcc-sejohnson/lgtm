@@ -2,7 +2,7 @@
 	import GoFile from 'svelte-icons/go/GoFile.svelte';
 	import GoCloudUpload from 'svelte-icons/go/GoCloudUpload.svelte';
 	import { browser } from '$app/environment';
-	import { enhance } from '$app/forms';
+	import { enhance, type SubmitFunction } from '$app/forms';
 	import { Toast } from '$lib/toast';
 
 	let form: HTMLFormElement;
@@ -16,14 +16,8 @@
 			toastMessage = undefined;
 		}, 3000);
 	}
-</script>
 
-<form
-	bind:this={form}
-	method="POST"
-	action="/train?/upload"
-	enctype="multipart/form-data"
-	use:enhance={() => {
+	const handleSubmit: SubmitFunction = async () => {
 		setToast('uploading');
 		return async ({ result }) => {
 			if (result.type === 'redirect') {
@@ -33,7 +27,15 @@
 				setToast('failure');
 			}
 		};
-	}}
+	};
+</script>
+
+<form
+	bind:this={form}
+	method="POST"
+	action="/train?/upload"
+	enctype="multipart/form-data"
+	use:enhance={handleSubmit}
 >
 	<label>
 		<input
