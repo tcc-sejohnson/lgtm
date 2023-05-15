@@ -4,7 +4,7 @@ import T from '$lib/statistics/dictionaries/t';
 import M from '$lib/statistics/dictionaries/m';
 // @ts-expect-error - no types
 import bayes from 'bayes';
-import fs from 'fs';
+import classifierJson from '$lib/statistics/classifier.json?raw';
 
 export function getRandomElement<T>(array: Array<T>): T {
 	return array[Math.floor(Math.random() * array.length)];
@@ -21,8 +21,8 @@ export function loadExistingClassifier(): {
 	toJson: () => string;
 	categorize: (text: string) => Promise<'good' | 'bad'>;
 } {
-	if (!fs.existsSync('./src/lib/statistics/classifier.json')) {
+	if (!classifierJson) {
 		throw new Error('Classifier file does not exist');
 	}
-	return bayes.fromJson(fs.readFileSync('./src/lib/statistics/classifier.json', 'utf8'));
+	return bayes.fromJson(classifierJson);
 }
