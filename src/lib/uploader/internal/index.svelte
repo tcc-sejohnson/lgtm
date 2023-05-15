@@ -20,7 +20,6 @@
 
 <form
 	bind:this={form}
-	class="relative w-full h-full"
 	method="POST"
 	action="/train?/upload"
 	enctype="multipart/form-data"
@@ -38,6 +37,7 @@
 >
 	<label>
 		<input
+			aria-label="Upload a file"
 			type="file"
 			name="file"
 			accept=".txt"
