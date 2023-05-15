@@ -4,6 +4,7 @@
 	import { ButtonLink } from '$lib/button-link';
 	import { beforeNavigate, afterNavigate } from '$app/navigation';
 	import { Toast } from '$lib/toast/index.js';
+	import { browser } from '$app/environment';
 
 	export let data;
 
@@ -61,8 +62,8 @@
 		<div class="buttons">
 			<ButtonLink disabled={loading} href={noAction}>no</ButtonLink>
 			<Button
-				disabled={loading}
-				type="submit"
+				disabled={loading || !browser}
+				type="button"
 				on:click={(e) => {
 					e.preventDefault();
 					copy();

@@ -2,7 +2,6 @@
 	import { enhance } from '$app/forms';
 	import { Button } from '$lib/button';
 	import { TextInput } from '$lib/text-input/index.js';
-	import { Toast } from '$lib/toast/index.js';
 	import { Uploader } from '$lib/uploader/index.js';
 	import type { SubmitFunction } from './$types.js';
 
@@ -131,7 +130,8 @@
 
 	.stretch {
 		margin-top: 8px;
-		width: calc(100% - 8px);
+		width: 100%;
+		box-sizing: border-box;
 	}
 
 	input[type='text'] {

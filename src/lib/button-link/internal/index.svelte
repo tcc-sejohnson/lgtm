@@ -48,7 +48,7 @@
 		color: var(--background);
 	}
 
-	a:active {
+	a:active:not(:disabled) {
 		transform: scale(0.95);
 	}
 </style>

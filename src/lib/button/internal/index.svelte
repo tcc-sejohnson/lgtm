@@ -40,7 +40,7 @@
 		color: var(--background);
 	}
 
-	button:active {
+	button:active:not(:disabled) {
 		transform: scale(0.95);
 	}
 </style>
