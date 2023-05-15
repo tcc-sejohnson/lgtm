@@ -131,6 +131,12 @@
 		width: calc(100% - 8px);
 	}
 
+	input[type='text'] {
+		border: 1px solid #ccc;
+		border-radius: var(--border-radius);
+		padding: var(--gap-half);
+	}
+
 	input[type='radio'][id='sort-of']:checked ~ input[type='text'] {
 		display: block;
 	}

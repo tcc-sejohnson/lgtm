@@ -1,26 +1,27 @@
-import { getExpandedLGTM } from '$lib/get-expanded-acronym';
+import { getAcronym } from '$lib/get-acronym';
 import { redirect } from '@sveltejs/kit';
 
-export function load({ url }) {
+export async function load({ url }) {
 	const orientation = url.searchParams.get('orientation');
-	const seedString = url.searchParams.get('seed');
-	const parsedSeed = parseInt(seedString ?? '0');
+	const id = url.searchParams.get('id');
 
-	const { lgtm, seed } = getExpandedLGTM(parsedSeed);
+	const { id: resolvedId, l, g, t, m } = await getAcronym(id ?? undefined);
 
-	if (seedString !== seed.toString() || !orientation) {
+	if (id !== resolvedId || !orientation) {
 		const params = new URLSearchParams();
 		params.set('orientation', orientation ?? 'along-y');
-		params.set('seed', seed.toString());
+		params.set('id', resolvedId);
 		throw redirect(307, `/?${params}`);
 	}
 
+	const acronymArray = [l, g, t, m];
+
 	if (orientation === 'along-y') {
-		return { lgtm: lgtm.join('\n.\n') + '\n.' };
+		return { lgtm: acronymArray.join('\n.\n') + '\n.' };
 	}
 
-	const longest = lgtm.map((line) => line.length).reduce((a, b) => Math.max(a, b));
-	const split = lgtm.map((line) => line.split(''));
+	const longest = acronymArray.map((line) => line.length).reduce((a, b) => Math.max(a, b));
+	const split = acronymArray.map((line) => line.split(''));
 	const lines: Array<string> = [];
 	for (let i = 0; i < longest; i++) {
 		const letters: Array<string | undefined> = [];

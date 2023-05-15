@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let type: 'button' | 'submit' | 'reset';
+	export let href: string;
 	export let variant: 'primary' | 'secondary' = 'secondary';
 	export let disabled = false;
 
@@ -7,20 +7,22 @@
 	$: secondary = variant === 'secondary';
 </script>
 
-<button on:click class:primary class:secondary {disabled} {type}><slot /></button>
+<a class:primary class:secondary class:disabled href={disabled ? undefined : href}><slot /></a>
 
 <style>
-	button {
+	a {
 		border-radius: var(--border-radius);
 		padding: var(--gap-three-quarters);
 		border: none;
 		cursor: pointer;
 		box-shadow: var(--shadow-small);
 		transition: 0.15s ease all;
+		text-align: center;
+		text-decoration: none;
 	}
 
-	button.primary:disabled,
-	button.secondary:disabled {
+	a.primary.disabled,
+	a.secondary.disabled {
 		color: var(--accents-4);
 		background: var(--accents-2);
 		cursor: not-allowed;
@@ -38,7 +40,7 @@
 		color: var(--background);
 	}
 
-	button:active {
+	a:active {
 		transform: scale(0.95);
 	}
 </style>

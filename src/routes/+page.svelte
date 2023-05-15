@@ -1,20 +1,20 @@
 <script lang="ts">
-	import { goto } from '$app/navigation';
 	import { page } from '$app/stores';
 	import { Button } from '$lib/button';
+	import { ButtonLink } from '$lib/button-link';
 
 	export let data;
 
 	let showCopySuccess = false;
 
 	$: currentOrientation = $page.url.searchParams.get('orientation') ?? 'along-y';
-	$: currentSeed = $page.url.searchParams.get('seed');
+	$: currentId = $page.url.searchParams.get('id');
 	$: noAction = `/?${new URLSearchParams({
 		orientation: currentOrientation
 	})}`;
 	$: rotateAction = `/?${new URLSearchParams({
 		orientation: currentOrientation === 'along-y' ? 'along-x' : 'along-y',
-		...(currentSeed ? { seed: currentSeed } : undefined)
+		...(currentId ? { id: currentId } : undefined)
 	})}`;
 
 	function onClickHighlight(
@@ -28,28 +28,6 @@
 			selection.selectAllChildren(e.currentTarget);
 			return;
 		}
-	}
-
-	async function enhanceNo(
-		e: Event & {
-			readonly submitter: HTMLElement | null;
-		} & {
-			currentTarget: EventTarget & HTMLFormElement;
-		}
-	) {
-		e.preventDefault();
-		await goto(noAction);
-	}
-
-	async function enhanceRotate(
-		e: Event & {
-			readonly submitter: HTMLElement | null;
-		} & {
-			currentTarget: EventTarget & HTMLFormElement;
-		}
-	) {
-		e.preventDefault();
-		await goto(rotateAction);
 	}
 
 	async function copy() {
@@ -66,29 +44,19 @@
 				>{@html data.lgtm}</code
 			></pre>
 		<div class="buttons">
-			<form method="get" on:submit={enhanceNo}>
-				<input name="orientation" value={currentOrientation} />
-				<Button type="submit">no thanks</Button>
-			</form>
-			<form
-				on:submit={(e) => {
+			<ButtonLink href={noAction}>no</ButtonLink>
+			<Button
+				type="submit"
+				on:click={(e) => {
 					e.preventDefault();
 					copy();
-				}}
+				}}>yes (copy to clipboard)</Button
 			>
-				<Button type="submit">yes (copy to clipboard)</Button>
-			</form>
-			<form method="get" on:submit={enhanceRotate}>
-				<input name="seed" value={currentSeed} />
-				<input
-					name="orientation"
-					value={currentOrientation === 'along-y' ? 'along-x' : 'along-y'}
-				/>
-				<Button type="submit">yes but rotated</Button>
-			</form>
+			<ButtonLink href={rotateAction}>yes but rotated</ButtonLink>
 		</div>
 	</div>
 </div>
+
 {#if showCopySuccess}
 	<div class="copy-success-toast">
 		<span class="copy-success-toast-content">copied. go forth and merge</span>
@@ -117,14 +85,6 @@
 		display: flex;
 		flex-direction: column;
 		gap: var(--gap);
-	}
-
-	form {
-		display: contents;
-	}
-
-	input {
-		display: none;
 	}
 
 	pre.center {
