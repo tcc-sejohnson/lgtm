@@ -61,6 +61,9 @@ devDependencies:
   svelte-check:
     specifier: ^3.0.1
     version: 3.2.0(svelte@3.58.0)
+  svelte-icons:
+    specifier: ^2.1.0
+    version: 2.1.0
   svelte-kit-cookie-session:
     specifier: ^3.4.1
     version: 3.4.1
@@ -2325,6 +2328,10 @@ packages:
       svelte: '>=3.19.0'
     dependencies:
       svelte: 3.58.0
+    dev: true
+
+  /svelte-icons@2.1.0:
+    resolution: {integrity: sha512-rHPQjweEc9fGSnvM0/4gA3pDHwyZyYsC5KhttCZRhSMJfLttJST5Uq0B16Czhw+HQ+HbSOk8kLigMlPs7gZtfg==}
     dev: true
 
   /svelte-kit-cookie-session@3.4.1:

@@ -22,7 +22,9 @@
 		border: none;
 		cursor: pointer;
 		box-shadow: var(--shadow-small);
-		transition: 0.15s ease all;
+		transition-property: color, border, box-shadow;
+		transition-duration: 0.15s;
+		transition-timing-function: ease;
 		text-align: center;
 		text-decoration: none;
 	}

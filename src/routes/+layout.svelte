@@ -1,6 +1,6 @@
 <script lang="ts">
-	import 'normalize.css';
 	import '../app.css';
+	import 'normalize.css';
 </script>
 
 <main>
